@@ -1,0 +1,36 @@
+Function Requirements
+
+What the System should
+
+1.Log in and out
+2.Allow to add daily tasks
+3.Edit/Modify tasks
+4.Delete tasks
+5.Send Me Reminders
+6.time tracking
+
+Expected Users
+Students with Smartphones, Laptops and personal computers.
+
+
+Non-Functional Requirements
+Usability: we will add the online help feature to assist students
+
+Reliability and Performance: to help ensure that system functions as expected,
+system updates and routine maintance will done daily, specifically when there is less activity
+from students online (early hours of the morning 1am-3am).
+
+Security: if students have gmail, facebook, linkedin, github, twitter and instagram,
+they will be able to sign up or log in 
+
+
+
+briefly describes how you are going to make
+your website (software product) stand out from those of your
+competitors.
+
+The Aim of the site is specifically targeting students;
+Students should be able to plan their goals for the day, week or month.
+With any upcoming task, the student should be able to receive a notification
+via email, facebook, twitter and instagram if they so choose.
+Daily motivation posts will sent to students to encourage to keep working hard.

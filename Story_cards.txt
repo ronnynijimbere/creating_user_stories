@@ -1,0 +1,49 @@
+story card 1
+As
+Admin
+
+I want
+to check the network
+
+So i can
+see how many visitors are online
+
+story card 2
+As
+user
+
+I want
+to change my password
+
+So i can
+Keep my account secure
+
+story card 3
+As
+user
+
+I want
+to see other students online
+
+So i can
+Know that there are other motivated students 
+
+story card 4
+As
+Admin
+
+I want
+feedback from users
+
+So i can
+Make improvements of the system
+
+story card 5
+As
+user
+
+I want
+online assistance
+
+So i can
+better understand the system if i get stuck
