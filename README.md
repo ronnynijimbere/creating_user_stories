@@ -1,4 +1,4 @@
-# creating_user_stories
+# Designing_and_planning_web_apps.
 
 Basic understanding on what are the requirements for writing user stories
 
